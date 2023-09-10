@@ -1,5 +1,0 @@
-if (
-    (month == {beginMonth} && day >= {beginDay}) || (month  == {endMonth} && day <= {endDay})
-) {
-    return "{signName}";
-}
