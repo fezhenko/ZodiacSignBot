@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ZodiacSignBotTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-09-10T14:05:03" hostname="Alexeys-MBP" time="0.03">
+  <properties/>
+  <testcase name="[1] Aries, 2023-03-21, 2023-04-19" classname="org.example.ZodiacSignBotTest" time="0.014"/>
+  <testcase name="[2] Taurus, 2023-04-20, 2023-05-20" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[3] Gemini, 2023-05-21, 2023-06-20" classname="org.example.ZodiacSignBotTest" time="0.0"/>
+  <testcase name="[4] Cancer, 2023-06-21, 2023-07-22" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[5] Leo, 2023-07-23, 2023-08-22" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[6] Virgo, 2023-08-23, 2023-09-22" classname="org.example.ZodiacSignBotTest" time="0.0"/>
+  <testcase name="[7] Libra, 2023-09-23, 2023-10-22" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[8] Scorpio, 2023-10-23, 2023-11-21" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[9] Sagittarius, 2023-11-22, 2023-12-21" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[10] Capricorn, 2023-12-22, 2024-01-19" classname="org.example.ZodiacSignBotTest" time="0.0"/>
+  <testcase name="[11] Aquarius, 2024-01-20, 2024-02-18" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <testcase name="[12] Pisces, 2024-02-19, 2024-03-20" classname="org.example.ZodiacSignBotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
